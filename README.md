@@ -1,7 +1,7 @@
 [Devpost Submission](https://devpost.com/software/dvote)
 
 # dVote
-Decentralized voting application using Ethereum. Also allows you to donate Ether to candidates and view their total funds.
+Decentralized voting application using Ethereum. Also allows you to donate Ether to your favorite candidates and view their total campaign funds, allowing transparency throughout the election.
 
 ## Dependencies
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
