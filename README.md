@@ -38,6 +38,8 @@ You must migrate the smart contract each time you restart ganache.
 - Import any one of the 10 accounts provided by Ganache.
 
 ## Step 6. Run the Front End Application
+
+Open a new shell and run the following command-  
 `$ npm run dev`  
 
 Visit this URL in your browser: http://localhost:3000
