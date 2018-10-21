@@ -24,11 +24,11 @@ Open the Ganache GUI client that you downloaded and installed. This will start y
 
 ## Step 4. Compile & Deploy the Application
 
-For macOS-
+For macOS-  
 `$ truffle migrate --reset`
 
-For Windows-
-`$ truffle develop`
+For Windows-  
+`$ truffle develop`  
 You must migrate the smart contract each time you restart ganache.
 
 ## Step 5. Configure Metamask
@@ -37,5 +37,5 @@ You must migrate the smart contract each time you restart ganache.
 - Import any one of the 10 accounts provided by Ganache.
 
 ## Step 6. Run the Front End Application
-`$ npm run dev`
+`$ npm run dev`  
 Visit this URL in your browser: http://localhost:3000
