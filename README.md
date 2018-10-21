@@ -46,5 +46,9 @@ Open a new shell and run the following command-
 Visit this URL in your browser: http://localhost:3000
 
 * Homepage  
-![Homepage](vote.PNG)
 
+![Homepage](images/vote.PNG)
+
+* Ganache users  
+
+<img src="images/ganache.PNG" height="450" width="600" >
