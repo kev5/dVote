@@ -11,11 +11,11 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/dappuniversity/election`
+`git clone https://github.com/kev5/dVote.git`
 
 ## Step 2. Install dependencies
 ```
-$ cd election
+$ cd dVote
 $ npm install
 ```
 
@@ -29,6 +29,7 @@ For macOS-
 
 For Windows-  
 `$ truffle develop`  
+
 You must migrate the smart contract each time you restart ganache.
 
 ## Step 5. Configure Metamask
@@ -38,4 +39,5 @@ You must migrate the smart contract each time you restart ganache.
 
 ## Step 6. Run the Front End Application
 `$ npm run dev`  
+
 Visit this URL in your browser: http://localhost:3000
