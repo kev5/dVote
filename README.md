@@ -1,4 +1,4 @@
-[Devpost Submission](https://devpost.com/software/dvote)
+[Devpost HackHarvard 2018 Submission](https://devpost.com/software/dvote)
 
 # dVote
 Decentralized voting application using Ethereum. Also allows you to donate Ether to your favorite candidates and view their total campaign funds, allowing transparency throughout the election.
